@@ -30,7 +30,7 @@ Per erat auctor semper dignissim aliquet habitasse conubia eu senectus purus nas
 
 ![alt text](./29264.png "Imagen random de un archivo")
 
-| Jugador | Equipo | Nombre |
+| *Jugador* | Equipo | Nombre |
 |:---------:|:--------:|--------:|
 | 10 | Barça | Lionel Messi |
 | 7 | Madrid | Ronaldo |
